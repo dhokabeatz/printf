@@ -1,1 +1,1 @@
-My first team proect
+My first team project
